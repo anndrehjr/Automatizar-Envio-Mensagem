@@ -1,0 +1,6 @@
+2024-10-20 09:46:01,170 - INFO - Mensagem enviada para +5518996609073
+2024-10-20 09:46:22,650 - INFO - Imagem enviada para +5518996609073
+2024-10-20 09:48:00,395 - INFO - Mensagem enviada para +5518996609073
+2024-10-20 09:48:21,878 - INFO - Imagem enviada para +5518996609073
+2024-10-20 09:50:01,141 - INFO - Mensagem enviada para +5518981111772
+2024-10-20 09:50:22,614 - INFO - Imagem enviada para +5518981111772
