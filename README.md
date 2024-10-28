@@ -29,7 +29,7 @@ pip install pywhatkit
 1. 🖥️ Clone este repositório em sua máquina:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/anndrehjr/Script-What.git
 ```
 
 2. 📁 Navegue até a pasta do projeto:
